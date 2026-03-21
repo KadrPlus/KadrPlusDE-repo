@@ -35,7 +35,7 @@
             </assets>
         </extension>
     </addon>
-    <addon id="plugin.video.kadrplusde" name="Kadr+" version="2.44.1" provider-name="Kadr+">
+    <addon id="plugin.video.kadrplusde" name="Kadr+" version="2.44.2" provider-name="Kadr+">
         <requires>
             <import addon="xbmc.python" version="3.0.0" />
             <import addon="script.module.requests" />
