@@ -17,7 +17,7 @@
             <platform>all</platform>
         </extension>
     </addon>
-    <addon id="plugin.video.kadrplus" name="Kadr+" version="2.43" provider-name="Kadr+">
+    <addon id="plugin.video.kadrplus" name="Kadr+" version="2.43.0" provider-name="Kadr+">
         <requires>
             <import addon="xbmc.python" version="3.0.0" />
             <import addon="script.module.requests" />
