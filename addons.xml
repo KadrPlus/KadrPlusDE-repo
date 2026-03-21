@@ -35,14 +35,14 @@
             </assets>
         </extension>
     </addon>
-    <addon id="plugin.video.kadrplusde" name="Kadr+" version="2.44.0" provider-name="Kadr+">
+    <addon id="plugin.video.kadrplusde" name="Kadr+" version="2.44.1" provider-name="Kadr+">
         <requires>
             <import addon="xbmc.python" version="3.0.0" />
             <import addon="script.module.requests" />
             <import addon="script.module.beautifulsoup4" />
             <import addon="script.module.future" />
             <import addon="script.module.six" />
-            <import addon="script.module.kodi-six" />
+            <import addon="script.module.kodi-six" optional="true" />
             <import addon="script.module.pyxbmct" optional="true" />
             <import addon="script.module.resolveurl" optional="true" />
             <import addon="script.module.kover" version="0.0.6" optional="true" />
